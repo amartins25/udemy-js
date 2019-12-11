@@ -31,7 +31,7 @@ console.log('13)', undefined === null)
 
 // Operadores Lógicos - ex vou sair se tiver dinheiro ou nao estiver chovendo
  
-v e v = v / v e f = f / f e ? = f / v ou ? = v / f ou  ? = ? / f ou v = v / f ou f = f
+// v e v = v / v e f = f / f e ? = f / v ou ? = v / f ou  ? = ? / f ou v = v / f ou f = f
 // v xor v = f / v xor f = v / f xor v = v / f xor f = f
 // !v = f / !f = v
 
@@ -51,6 +51,10 @@ console.log(compras(true, true))
 console.log(compras(true, false))
 console.log(compras(false, true))
 console.log(compras(false, false))
+
+// -- operadores unários
+
+
 
 
 
