@@ -1,0 +1,18 @@
+Array é uma estrutura dinamica, cresce ou diminui,
+indice começa do 0
+Array é um objeto
+
+Acessar indice que nao existe retorna undefined
+posso atribuir um novo valor a um indice no array, caso nao exista e nao seja uma constante = const
+Posso excluir ou adicionar mesmo sendo constante, usando metodo push pra adicionar elementos.
+
+Sort altera, reorganiza o mesmo array
+Splice usa parametros ( x, y ) x digo de qual indice quero começar e y quantos elementos quero retirar.
+Pode adicionar ou remover, se quero adicionar(x, y, z) x aonde quero colocar, y vale 0 pra dizer que nao quero remover e 0 z pode ter varios com os valores que quero incluir
+
+slice remove assim como o splice remove tbm
+
+Pop exclui o ultimo elemento do array e 
+Shift exclui o primeiro
+Unshift adiciona um no indice 0
+
