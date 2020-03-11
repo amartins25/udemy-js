@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/amartins25/udemy-js#readme",
   "dependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.15",
+    "node-schedule": "1.3.0"
   }
 }
