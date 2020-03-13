@@ -18,4 +18,6 @@
  console.log(x, y)
 
  const { idade: i, nome } = { nome: 'Ana', idade: 9 }
- console.log(i, nome)
+ console.log(i, nome) // Desestruturar um objeto
+
+ 
